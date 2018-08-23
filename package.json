@@ -13,8 +13,8 @@
     "react-tap-event-plugin": "^3.0.3"
   },
   "scripts": {
-    "start": "",
-    "dev": "next",
+    "start": "next start",
+    "dev": "node server.js",
     "build": "next build"
   }
 }
